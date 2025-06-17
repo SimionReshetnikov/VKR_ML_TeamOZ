@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
 ## Презентация проекта
 
-[Ссылка на презентацию (Google Slides)](https://disk.yandex.ru/d/SalNI2q1F-pofw)
+[Ссылка на презентацию (Yandex Disk)](https://disk.yandex.ru/d/SalNI2q1F-pofw)
 
 ## Дополнительные материалы
 
