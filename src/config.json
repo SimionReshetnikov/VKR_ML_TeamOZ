@@ -1,0 +1,7 @@
+{
+  "detector_ckpt": "checkpoints/detector/weights/best.pt",
+  "classifier_ckpt": "checkpoints/classifier/weights/best.pt",
+  "device": "cpu",
+  "defect_threshold": 0.7,
+  "good_threshold": 0.6
+}
